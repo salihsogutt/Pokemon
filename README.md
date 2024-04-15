@@ -9,7 +9,7 @@
 # TODOs
 •⁠  ⁠Unit Tests
 •⁠  ⁠Error Handling
-•⁠  ⁠Add Favorite
+•⁠  ⁠Detail Page
 
 # Video
 
