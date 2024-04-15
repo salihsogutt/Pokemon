@@ -14,4 +14,4 @@
 # Screenshots
 
 
-<img src="https://user-images.githubusercontent.com/76944306/155149223-4c46dd70-bdd5-42ab-9a1b-328765d612dd.png" width="250" height="500" />
+<img src="https://github.com/salihsogutt/Pokemon/assets/79975151/b3cca4f1-84fa-451e-98a6-11f2c626ddb9.mp4" width="250" height="500" />
